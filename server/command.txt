@@ -1,0 +1,16 @@
+Liste des commandes serveur :
+
+    shutdown : arrêt du serveur
+    start : lance la partie
+    save : sauvegarde de la partie
+    load : charger la partie (uniquement dans le lobby)
+    
+    players : affiche les joueurs chargés
+    connected_players : affiche les joueurs connectés
+    setadmin : ajoute un joueur connecté aux administrateurs
+    delete_player : supprime un joueur
+
+    
+    nenv : charge le deck environnement depuis env.txt
+    shuffle_env : mélange l'environnement
+    show_env : montre la composition de l'environnement
